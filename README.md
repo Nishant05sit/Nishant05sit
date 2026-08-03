@@ -1,7 +1,7 @@
 ### Hi 👋
-My Name is NISHANT KUMAR
+I am NISHANT KUMAR
 
-- 🔭 I’m currently working as a Software Engineer
+- 🔭 Software Engineer
 - 🌱 I’m currently learning backend
 - 💬 Professional Summary: -
   
